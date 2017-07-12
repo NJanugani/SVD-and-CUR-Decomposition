@@ -1,0 +1,31 @@
+List of packages used
+
+	csv
+	copy
+	mathnumpy 
+	pandas 
+	random 
+	mpl_toolkits.mplot3d 
+	matplotlib.pyplot 
+	time
+
+
+
+List of functions used
+
+	svd 
+	pythag 
+	randrange 
+	dataToMatrix
+	frob 
+	cur 
+
+
+
+Data-Structures used
+
+	Arrays
+	Lists
+	Dictionaries
+	tuples
+	DataFrame imported from Pandas 
